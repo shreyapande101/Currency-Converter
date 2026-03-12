@@ -1,34 +1,16 @@
-#  Currency Converter Web App
+#  Currency Converter
 
-##  Project Overview
+##  About Project 
 
-This project is a **Currency Converter web application** built using **HTML, CSS, and JavaScript**. The app allows users to enter an amount, select two different currencies, and instantly see the converted value using real-time exchange rates. It also displays country flags for each selected currency and includes a swap feature to quickly reverse the conversion direction.
-
----
-
-##  Why I Made This Project
-
-I wanted to build something **practical and interactive** rather than a static webpage. Currency conversion is something people actually use, and it felt like a good challenge that combines logic, user input, and external data.
-
-This project helped me:
-- Practice JavaScript DOM manipulation
-- Learn how APIs work in real-world applications
-- Better understand how HTML, CSS, and JavaScript connect together
-- Gain confidence building a full mini-project on my own
+This project is a **Currency Converter** web application where user can convert
+one country currency value to another one by puttig value in it.
 
 ---
-
-##  How I Built It
 
 ### Language Used
 - **HTML** – Structure and layout of the app  
-- **CSS** – Styling, layout, colors, and responsiveness  
-- **JavaScript** – App logic, API calls, and interactivity  
-
-### Key Features
-- Dropdown menus populated dynamically with currency codes  
-- Country flags that update when a currency is selected  
-- Real-time exchange rates fetched from an external API  
+- **CSS** – Styling, layout, colors.
+- **JavaScript** – API calls, and interactivity  
 
 ### How It Works
 1. The currency dropdowns are filled using a predefined currency-to-country list.
@@ -41,20 +23,18 @@ This project helped me:
 
 ##  Challenges & Struggles
 
-One of the biggest challenges was **working with the API response** and understanding how to extract the correct exchange rate from the returned data. It took time to figure out how to access nested values and handle errors if something went wrong.
-
+The main struggle I face is to use the api key perfectly as I am new in coding 
+its very important for me to use the api fetch key perfectly and beside it also keep learning the basic.
 ---
 
-##  What I Learned
+##  What I Learned From This Project
 
 From this project, I learned:
-- How to use `fetch()` to retrieve real-time data from an API  
-- How to dynamically update the DOM using JavaScript  
-- How important debugging and testing are in development  
-- How different parts of a web project work together as one system  
+- How to use `fetch()` API key
+- How to use fetch api in JS
 
 ---
 
-##  Final Reflection
+## At last
 
-This project challenged me and helped me grow as a developer. It taught me how to combine design, logic, and real-world data into a functional application. Even though I struggled at times, completing this project was rewarding and gave me more confidence in my programming skills.
+This project helped me in my coding journey because learning from the small project is best way of understanding the logic behind the language used.
